@@ -1,10 +1,23 @@
+# 🛞 Parametric TPU Tire for Electric Longboards
 
+<div align="center">
+  <img width="300" alt="parametric-tire-3d" src="https://github.com/user-attachments/assets/e7ff0c61-0d91-48d1-a715-55a70dd3a8b7" style="margin: 0 10px;" />
+  <img width="300" alt="parametric-tire" src="https://github.com/user-attachments/assets/0407e92f-e4cc-4faa-9ab1-bd98d99b7b56" style="margin: 0 10px;" />
+</div>
+<br>
 
 A customizable, 3D-printable TPU tire designed specifically for electric longboards, mountainboards, and DIY off-road vehicles using split rims. 
-<img width="657" height="697" alt="parametric-tire-3d" src="https://github.com/user-attachments/assets/e7ff0c61-0d91-48d1-a715-55a70dd3a8b7" />
-<img width="561" height="709" alt="parametric-tire" src="https://github.com/user-attachments/assets/0407e92f-e4cc-4faa-9ab1-bd98d99b7b56" />
 
-Written in OpenSCAD, this model features an aggressive **hybrid tread pattern** (longitudinal grooves + directional V-tread + shoulder lugs) 
+Written in OpenSCAD, this model features an aggressive **hybrid tread pattern** (longitudinal grooves + directional V-tread + shoulder lugs).
+
+## 📏 Default Dimensions
+Based on the default parameters in the OpenSCAD file, the generated tire has the following physical dimensions (before material shrinkage):
+
+* **Outer Diameter:** ~144.4 mm
+* **Inner Diameter (Rim Fit):** ~92.4 mm *(Designed to shrink to approx. 91.1 mm after cooling)*
+* **Total Tire Width:** 50 mm
+* **Inner Rim Bed Width:** 43 mm
+* **Tire Profile Thickness:** 19 mm
 
 ## ✨ Features
 * **Supportless Printing:** All tread grooves and lugs use 45-degree chamfers, meaning you can print this entirely without supports.
