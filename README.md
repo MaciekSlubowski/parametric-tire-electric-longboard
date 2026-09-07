@@ -6,7 +6,7 @@
 </div>
 <br>
 
-A customizable, 3D-printable TPU tire designed specifically for electric longboards, mountainboards, and DIY off-road vehicles using split rims. 
+A customizable, 3D-printable tire designed specifically for electric longboards, mountainboards, and DIY off-road vehicles using split rims. 
 
 Written in OpenSCAD, this model features an aggressive **hybrid tread pattern** (longitudinal grooves + directional V-tread + shoulder lugs).
 
