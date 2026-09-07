@@ -1,6 +1,8 @@
 
 
 A customizable, 3D-printable TPU tire designed specifically for electric longboards, mountainboards, and DIY off-road vehicles using split rims. 
+<img width="657" height="697" alt="parametric-tire-3d" src="https://github.com/user-attachments/assets/e7ff0c61-0d91-48d1-a715-55a70dd3a8b7" />
+<img width="561" height="709" alt="parametric-tire" src="https://github.com/user-attachments/assets/0407e92f-e4cc-4faa-9ab1-bd98d99b7b56" />
 
 Written in OpenSCAD, this model features an aggressive **hybrid tread pattern** (longitudinal grooves + directional V-tread + shoulder lugs) 
 
