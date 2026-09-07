@@ -37,10 +37,10 @@ To get the best ride quality and durability out of this tire, follow these guide
 
 
 ## ⚠️ Note on Material Shrinkage
-Flexible materials like TPU tend to shrink slightly after printing and cooling down. 
+Flexible materials like TPU tend to shrink slightly after printing and cooling down. Based on my tests, the TPU shrank by exactly **1.4%**. 
 
-* The default `rim_radius` parameter in the OpenSCAD file (46.2 mm) is already slightly enlarged to compensate for this shrinkage, ensuring a tight, secure fit on a standard split rim once cooled. 
-* If your printed tire ends up too tight or too loose for your specific hubs, you can either adjust the `rim_radius` variable directly in the code or scale the final STL model by 1-2% on the X and Y axes in your slicer.
+* The default `rim_radius` parameter in the OpenSCAD file (46.2 mm) is already slightly enlarged to compensate for this 1.4% shrinkage, ensuring a tight, secure fit on a standard split rim once cooled. 
+* If your printed tire ends up too tight or too loose for your specific hubs (as different TPU brands may vary), you can either adjust the `rim_radius` variable directly in the code or scale the final STL model by 1-2% on the X and Y axes in your slicer.
 
 
 This project is open-source and provided strictly for personal, educational, and non-commercial purposes. You are free to explore, modify, and learn from the codebase. If you wish to use this project for commercial purposes, please contact me.
