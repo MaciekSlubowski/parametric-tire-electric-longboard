@@ -31,7 +31,7 @@ To get the best ride quality and durability out of this tire, follow these guide
 * **Layer Height:** 0.2 mm - 0.28 mm
 * **Walls/Perimeters:** 4-6 (for structural strength)
 * **Infill:** **100% Solid (MANDATORY)** - The tire must be printed completely solid. Sparse infill patterns will cause the tire to collapse or tear under the weight, torque, and lateral forces of an electric longboard.
-  * *Pro-Tip for 100% TPU:* Use a criss-cross infill pattern (like *Rectilinear* or *Lines* with alternating angles per layer, e.g., 45° and -45°). Ensure the extrusion paths sit tightly side-by-side rather than overlapping. Shifting the paths slightly prevents material buildup, bulging, and nozzle clogs, which are common when printing solid TPU.
+  * *Pro-Tip for 100% TPU:* Use a criss-cross infill pattern (like *Rectilinear* or *Lines* with alternating angles, e.g., 45° and -45°). To maximize durability, the infill lines should not stack perfectly on top of each other vertically. Ensure your slicer slightly offsets (shifts) the paths laterally on subsequent layers. This creates a tightly interwoven internal structure that significantly increases strength while preventing material buildup, bulging, and nozzle clogs common with solid TPU.
 * **Supports:** NONE 
 * **Cooling:** 100% (Crucial for steep overhangs in the tread)
 
