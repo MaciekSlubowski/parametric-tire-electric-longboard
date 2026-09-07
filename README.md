@@ -30,19 +30,11 @@ To get the best ride quality and durability out of this tire, follow these guide
 * **Material:** TPU (85A to 95A hardness works best - e.g., Rosa3D or similar)
 * **Layer Height:** 0.2 mm - 0.28 mm
 * **Walls/Perimeters:** 4-6 (for structural strength)
-* **Infill:** 15% - 25% **Gyroid** (Gyroid infill acts like an air cushion, providing excellent shock absorption)
+* **Infill:** **100% Solid (MANDATORY)** - The tire must be printed completely solid. Sparse infill patterns will cause the tire to collapse or tear under the weight, torque, and lateral forces of an electric longboard.
+  * *Pro-Tip for 100% TPU:* Use a criss-cross infill pattern (like *Rectilinear* or *Lines* with alternating angles per layer, e.g., 45° and -45°). Ensure the extrusion paths sit tightly side-by-side rather than overlapping. Shifting the paths slightly prevents material buildup, bulging, and nozzle clogs, which are common when printing solid TPU.
 * **Supports:** NONE 
 * **Cooling:** 100% (Crucial for steep overhangs in the tread)
 
-## 🖨️ Recommended Print Settings & Setup
-
-For maximum durability and performance on an electric longboard, this tire is designed to be printed as a solid block. A 3D printer equipped with a **Direct Drive extruder** is highly recommended for reliable extrusion of flexible filaments.
-
-* **Material:** TPU 95A (Tested successfully with Rosa3D 95A)
-* **Infill:** 100% (Solid infill ensures the tire can handle the weight and torque of an e-skate)
-* **Layer Height:** 0.2 mm - 0.28 mm
-* **Walls/Perimeters:** 4-6
-* **Supports:** NONE (The tread is designed with FDM-friendly 45° angles)
 
 ## ⚠️ Note on Material Shrinkage
 Flexible materials like TPU tend to shrink slightly after printing and cooling down. 
