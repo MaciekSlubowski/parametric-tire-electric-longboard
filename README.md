@@ -44,3 +44,4 @@ Flexible materials like TPU tend to shrink slightly after printing and cooling d
 
 
 This project is open-source and provided strictly for personal, educational, and non-commercial purposes. You are free to explore, modify, and learn from the codebase. If you wish to use this project for commercial purposes, please contact me.
+**Źródło:** Opracowane i zaprojektowane przez Macieja Ślubowskiego.
