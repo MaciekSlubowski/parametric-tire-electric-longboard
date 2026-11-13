@@ -1,0 +1,12 @@
+# Slicer output
+*.gcode
+*.bgcode
+*.3mf
+
+# Editor / OS files
+*.bak
+*~
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
